@@ -1,0 +1,15 @@
+Exception
+RuntimeException
+ArithmeticException
+
+
+A
+B
+C
+D
+
+A a = new A();
+A a = new B();
+A a = new C();
+A a = new D();
+

@@ -1,0 +1,34 @@
+3)
+
+Student Class
+-name: String
+-ID: int
+
+MSStudent class
+-BSresult: double
+
+
+Read and add following methods to both classes based on
+https://www.javaworld.com/article/2076332/java-se/how-to-avoid-traps-and-correctly-override-methods-from-java-lang-object.html
+https://www.javaworld.com/article/2072762/java-app-dev/object-equality.html
+https://www.javaworld.com/article/2073250/basic-java-hashcode-and-equals-demonstrations.html
+https://www.javaworld.com/article/2074300/compact-equals.htm
+https://www.javaworld.com/article/2074301/core-java/java-7-objects-powered-compact-equals.html
+https://learn1.open.ac.uk/mod/oublog/viewpost.php?post=24825
+
+Methods to be added:
+equals(Object other)
+hashCode()
+toString()
+clone()
+
+
+4) Read two numbers from input.txt
+Save summation to output.txt
+
+Solve Q8 (java) from YYYYZ_FE_PM_Question from the followings. Submit complete javacode that runs.
+5) http://itpec.org/pastexamqa/fe/2017A_FE.zip
+
+6) http://itpec.org/pastexamqa/fe/2017S_FE.zip
+
+7) http://itpec.org/pastexamqa/fe/2016S_FE.zip

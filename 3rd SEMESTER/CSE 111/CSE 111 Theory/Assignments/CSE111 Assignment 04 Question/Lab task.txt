@@ -1,0 +1,16 @@
+For each task
+1) check with ST if trace table is correct
+2) run and produce output using
+a)running in drjava
+b) learn tracing using debugger / jeliot
+c) manually produce and match all outputs
+
+Try to solve sequentially:
+Task1 Human
+Test
+Test10 Puzzle
+Test4
+Test8
+Test3
+Test6
+Test2

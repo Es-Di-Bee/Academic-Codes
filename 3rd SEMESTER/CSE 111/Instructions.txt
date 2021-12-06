@@ -1,0 +1,3 @@
+Use only the Scanner class for taking input.
+
+use of JOptionPane or SimpleInput is not allowed.
