@@ -1,0 +1,66 @@
+CSE110 Assignment 4
+
+You should be solving multiple tasks per day to be able to complete the assignment in time.
+You should visit student tutor at least 3 times week and try to submit within early submission time.
+
+It will not be wise to wait for last/end dates/deadlines.
+You can submit as many times as you want before the regular submission deadline.
+Please follow up with Student Tutor (ST) for corrections/improvement.
+
+Tentative Early Submission Date Ranges for 20% bonus:
+Starts: Tue, 30-Oct
+Ends: Sun, 11-Nov
+Find and submit to Student Tutor (ST) at your own responsibility for early submissions.
+
+Tentative Regular Submission Date: 
+Mon, 12-Nov in class to ST WITHIN FIRST 5 MINUTES
+On this day, You should submit whatever you have, no matter how many questions you were able to solve.
+
+Tentative Late Submission Date Ranges(50% mark will be deducted):
+Start: Tue, 13-Nov
+End: Mon, 19-Nov
+
+
+ST might not be able to return assignments, hence preserve a photocopy for your future reference or to revise later.
+
+Solution Guideline:
+===================
+Write java code. Use for-loops for java programs if loop is necessary.
+
+For each task, you may assume following lines are already written for you.
+So, you do not have to repeat these lines for each task.
+
+import static java.lang.System.*;
+import java.util.*;
+public class Task01 {
+     public static void main (String[] args) {
+           Scanner scanner = new Scanner (in);
+            
+           // your writing starts here
+
+           // your writing ends here, so don't include following two closing curly braces in your solution
+
+     }
+}
+
+Submission instructions:
+===================
+1. Submit on plain paper. Staple before coming into the class. You can staple from DCOs room.
+2. Write date of submission, name, ID, section, course, assignment number
+3. Do NOT use an extra coversheet / front page for writing name, id etc. Write in upper right corner.
+4. You can use pen or pencil or both.
+5. Everything must be hand written / drawn. Printouts will not be accepted.
+6. It is optional for you to include a trace table of your flowchart with your assignment paper.
+7. You are allowed to use && and ||.
+8. You are allowed to use array, String as appropriate. Try to solve problems numericallying without resorting to Strings.
+
+
+Assignment04 Question:
+===================
+Please ignore the deadline mentioned in pdf, if any.
+Please follow the deadlines from guideline txt file.
+\\172.16.2.11\CSE\Annajiat\CSE 110 Theory\Assignments
+
+Those who did not understand the question or need further help, you can take help of the ST
+
+or you can ask in the group by clicking reply to this email (instead of composing a new mail)

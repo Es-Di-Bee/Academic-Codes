@@ -1,0 +1,50 @@
+CSE110 Assignment 2
+
+You should be solving multiple tasks per day to be able to complete the assignment in time.
+You should visit student tutor at least 3 times week and try to submit within early submission time.
+
+It will not be wise to wait for last/end dates/deadlines.
+You can submit as many times as you want before the regular submission deadline.
+Please repeatedly follow up with Student Tutor (ST) for corrections/improvement,
+and try to finally submit correct solutions to ST.
+ST might not be able to return assignments, hence preserve a photocopy for your future reference or to revise later.
+
+
+Tentative Early Submission Date for 20% bonus:
+Starts: Sun, 14-Oct
+Ends: Sun, 21-Oct to Student Tutor (ST). Find ST at your own
+responsibility for early submissions.
+
+
+Tentative Regular Submission Date:
+Mon, 22-Oct in class to ST WITHIN FIRST 5 MINUTES
+On this day, You should submit whatever you have, no matter how many questions you were able to solve.
+
+
+Tentative Late Submission Date Ranges (50% mark will be deducted):
+Starts: Tue, 23-Oct
+Ends: Wed, 31-Oct
+Find ST at your own responsibility for late submissions.
+
+
+
+Submission instructions:
+===================
+1. Submit on plain paper. Staple before coming into the class. You can staple from UB50401.
+2. Write date of submission, name, ID, section, course, assignment number
+3. Do NOT use an extra coversheet / front page for writing name, id etc. Write in upper right corner.
+4. You can use pen or pencil or both.
+5. Everything must be hand written / drawn. Printouts will not be accepted.
+6. It is optional for you to include a trace table of your flowchart with your assignment paper.
+7. You are allowed to use && and ||.
+
+
+Assignment02 Question:
+===================
+Please ignore the deadline mentioned in pdf
+Please follow the deadlines from guideline txt file.
+\\172.16.2.11\CSE\Annajiat\CSE110 Theory\Assignments\Assignment2.pdf
+
+Those who did not understand the question or need further help, you can take help of the ST
+
+or you can ask in the group by clicking reply to this email (instead of composing a new mail)

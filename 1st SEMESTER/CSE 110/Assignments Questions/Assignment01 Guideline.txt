@@ -1,0 +1,88 @@
+CSE110 Assignment 1
+It will not be wise to wait for last/end dates/deadlines. 
+You can submit as many times as you want before the regular submission deadline.
+Please follow up with Student Tutor (ST) for corrections/improvement.
+
+Tentative Early Submission Date Ranges for 20% bonus:
+Starts: MON, OCT 8
+Ends: THU, OCT 11
+Find and submit to Student Tutor (ST) at your own responsibility for early submissions.
+You should be solving about multiple flowcharts per day to be able to submit within early submission dates and get 20% bonus.
+
+
+Tentative Regular Submission Date:
+MON, OCT 15 in class WITHIN FIRST 5 MINUTES
+On this day, You should submit whatever you have, no matter how many questions you were able to solve.
+
+
+Tentative Late Submission Date Ranges (50% mark will be deducted):
+Starts: TUE, OCT 16
+Ends: SUN, OCT 21 to Student Tutor (ST). 
+Find ST at your own responsibility for late submissions.
+
+
+
+
+
+Submission instructions:
+===================
+1. Submit on plain paper. Staple before coming into the class. You can staple from UB50401.
+2. Write date of submission, name, ID, section, course, assignment number
+3. Do NOT use an extra coversheet / front page for writing name, id etc. Write in upper right corner of the first page of solutions.
+4. You can use pen or pencil or both.
+5. Everything must be hand written / drawn. Printouts will not be accepted.
+6. It is optional for you to include a trace table of your flowchart with your assignment paper.
+7. You are not allowed to use && and || in your flowchart for this assignment.
+You are not allowed to use  && || before midterm.
+In midterm and after midterm, you may use && and II.
+
+
+Solution Style Guideline:
+=========================
+1. Your flowchart should use proper variable names.
+2. Do not forget to prompt before you take input in flowchart.
+3. Do not overwrite, you may strikethrough and write at side.
+4. For flowchart, use connector/junction as necessary. All boxes will
+have one inward arrow and one outward arrow. The decision box can have
+one inward arrow and two outward arrows. The connector/junction will
+have maximum 3 inward arrows and only one outward arrow.
+5. Test your flowchart as well by going from start to end for many
+different inputs like what we do for trace tables. Trace Table is a
+table with variable names and output as columns. We record value
+changes for all variables as well as output in that table.
+I will show usage of trace tables in class. Examples are available at
+http://en.wikipedia.org/wiki/Trace_table
+ and  at
+http://goo.gl/VCUz8B
+
+Inclusion of tracetable in your solution paper is optional and no marks
+will be deducted if the table is not shown. However, you should use
+tracetable to check for correctness.
+6. If you do not understand the question, please click reply and ask
+for clarification.
+7. Use only one condition inside a decision box. For example, you can NOT write "
+6>= hour >=4"
+8. Try to complete this assignment with minimum number of decision
+boxes. You can use
+as many decision boxes you need. But you should use minimum number of
+decision boxes that results in a correct solution. A correct solution
+means, it gives correct output for all inputs.
+9. You can add another page if you cannot finish in one page.  In
+class, you were shown how to connect flowcharts across multiple pages
+or different parts on the same page.
+It is simple. It is called "on page connector" which is a small circle
+and inside that, there will be a label to identify the connector.
+Illustrated example is available at
+http://www.flowhelp.com/flowchart/flowchart_connector_detail.html
+
+Do NOT use the "off page connector".
+
+Assignment01 Question:
+===================
+Please ignore the deadline (if any) mentioned in pdf
+Please follow the deadlines from guideline txt file.
+\\172.16.2.11\CSE\Annajiat\CSE110 Theory\Assignments\Assignment1.pdf
+
+Those who did not understand the question or need further help, you can take help of the ST
+
+or you can ask in the group by clicking reply to this email (instead of composing a new mail)
