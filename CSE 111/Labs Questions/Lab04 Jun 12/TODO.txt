@@ -1,2 +1,0 @@
-Separate tasks for toString and equals to earlier minitasks.
-Worked out example of constructor, calling constructor via this and super keywords.

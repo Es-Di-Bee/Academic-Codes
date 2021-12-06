@@ -1,5 +1,0 @@
-public class ComplexNumber extends RealNumber {
-        public String toString() {
-                return "hudai";
-        }
-}
