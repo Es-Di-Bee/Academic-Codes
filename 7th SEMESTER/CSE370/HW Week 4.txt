@@ -1,0 +1,63 @@
+1.  select first_name, last_name, email, phone_number, hire_date, department_id from employees where hire_date in (select max(hire_date) from employees group by department_id);
+
+
+2.  select first_name, last_name, email, phone_number, hire_date, department_id from employees where hire_date in (select min(hire_date) from employees group by department_id);
+
+
+3.  select first_name, last_name, employee_id, phone_number, salary, department_id from employees where salary in (select min(salary)  from employees group by department_id);
+
+
+4.  select first_name, last_name, employee_id, commission_pct, department_id from employees where department_id = 7 and commission_pct < all(select commission_pct from employees where department_id = 5);
+
+
+5.  select count(*) from employees group by department_id;
+
+
+6.  select first_name, last_name, employee_id, email, salary, department_id from employees where hire_date < '2020-01-01';
+
+
+7.  select first_name, last_name, employee_id, email, salary, department_id from employees where salary = (select max(salary) from    employees where manager_id = 'abcd998773');
+
+
+8.  select distinct department_id from employees e1 where 30000 > all(select salary from employees e2 where e2.department_id = e1.department_id);
+
+
+9.  select distinct department_id, job_id, commission_pct from employees e1 where commission_pct < any(select commission_pct from employees e2 where e2.department_id = e1.department_id);
+
+
+10.  select first_name, last_name, employee_id, email, salary, department_id, min(commission_pct) as commission_pct from employees group by manager_id;
+
+
+11.  select count(*) from employees where employee_id = manager_id;
+
+
+12.  select distinct department_id, job_id, salary from employees e1 where salary < any(select salary from employees e2 where e2.department_id = e1.department_id);
+
+
+13.  select distinct manager_id from employees e1 where 1500 < any(select salary from employees  e2 where e2.manager_id = e1.manager_id);
+
+
+14.  select distinct manager_id from employees e1 where 15.25 > any(select commission_pct from employees  e2 where e2.manager_id = e1.manager_id);
+
+
+15.  select distinct manager_id from employees e1 where 3500 <= all(select salary from employees  e2 where e2.manager_id = e1.manager_id);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
