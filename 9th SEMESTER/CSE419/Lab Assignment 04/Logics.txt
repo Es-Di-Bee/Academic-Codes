@@ -1,0 +1,14 @@
+1) The answer is simple. Given the gcd and lcm, if the gcd can be divided by the lcm, there exists 2 numbers, otherwise not. If there exists 2 numbers, there can be many pairs among them. But the simplest pair is the (gcd, lcm). Because, 
+max value of gcd = min(two numbers) and min value of lcm = max(two numbers)
+
+
+2) we first used Sieve of Erathosthenes in numbers upto x. Then manually check using a for loop, that which two prime numbers sum upto x.
+
+
+3) we first used Sieve of Erathosthenes in numbers upto 20000000. Then add only those primes in a vector, whose difference with next prime is 2. After that for every test cases, we simply printed that index of that vector. 
+
+
+4) first we are finding and storing all the divisors of the given number in a vector. then simply testing out all possible pairs of the divisors. 
+
+
+5) first we keep all the prime numbers upto the given number in a vector. then just simply print the middle prime numbers. easy pizi.

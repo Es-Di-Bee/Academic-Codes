@@ -1,0 +1,13 @@
+1) The input distribution can be skewed. That is why it is better to use median than to use average. 
+
+2) the answer is brute force. First, find out all possible sums and then just compare. 
+
+3) Simple plain binary search for less time complexity
+
+4) Divide the received money in half. And then binary search all the possible pair of numbers (which sums up to the received money). 
+
+5) can be solved easily using the upper bound and lower bound. Upper bound provides the first index whose value is greater than a given value in an array, and lower bound provides the first index whose value is not less than a given value in an array. 
+
+6) we used binary search on the answer range. And checked if the ans is right, in brute force method. 
+
+7) we used binary search on the answer range. And checked if the ans is right, in brute force method. 
